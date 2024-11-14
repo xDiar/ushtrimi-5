@@ -13,3 +13,14 @@ header {
     padding: 20px;
     text-align: center;
 }
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.menu {
+    background-color: #f9f9f9;
+    padding: 15px;
+    width: 25%;
+    border-radius: 10px;
+}
