@@ -40,3 +40,14 @@ header {
     color: blue;
     text-decoration: none;
 }
+.content {
+    background-color: #fff;
+    padding: 15px;
+    width: 70%;
+    border-radius: 10px;
+}
+
+.content h2 {
+    color: black;
+    margin-bottom: 10px;
+}
